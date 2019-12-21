@@ -2,7 +2,7 @@
  <head>
   <meta charset="UTF-8" />
   <title>智能照明系统，智能安防系统，智能影音系统，门窗遮阳系统|铵琪物联</title>
-  <link rel="stylesheet" type="text/css" href="http://static.orvibo.com/guanwang_second/front/css/global_ch-c3fd5368e5.css" />
+  <link rel="stylesheet" type="text/css" href="global_ch-c3fd5368e5.css" />
   <link rel="stylesheet" type="text/css" href="http://static.orvibo.com/guanwang_second/front/css/orvibo-058bcc0a63.css" />
   <link rel="stylesheet" type="text/css" href="http://static.orvibo.com/guanwang_second/front/css/product_list-7f1b9b8c90.css" />
 
