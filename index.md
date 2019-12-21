@@ -9,9 +9,9 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <meta name="renderer" content="webkit" />
   <title>智能照明系统，智能安防系统，智能开关，铵琪物联</title>
-  <link rel="stylesheet" type="text/css" href="http://static.orvibo.com/guanwang_second/front/css/global_ch-c3fd5368e5.css" />
-  <link rel="stylesheet" type="text/css" href="http://static.orvibo.com/guanwang_second/front/css/orvibo-058bcc0a63.css" />
-  <link rel="stylesheet" type="text/css" href="http://static.orvibo.com/guanwang_second/front/css/product_list-7f1b9b8c90.css" />
+  <link rel="stylesheet" type="text/css" href="/global_ch-c3fd5368e5.css" />
+  <link rel="stylesheet" type="text/css" href="/orvibo-058bcc0a63.css" />
+  <link rel="stylesheet" type="text/css" href="/product_list-7f1b9b8c90.css" />
   <meta name="Keywords" content="智能照明系统,智能安防系统,智能影音系统,门窗遮阳系统,智能主机,智能开关,智能插座,智能门锁" />
   <meta name="description" content="铵琪物联智能家居控制系统包含了智能控制中心、智能照明系统、智能安防系统、智能影音系统、能源管理系统、门窗遮阳系统等六大子系统，产品组成有智能主机,智能开关,智能插座,智能门锁..." />
   <meta name="baidu-site-verification" content="yNlx5YrnPZ" />
